@@ -1,0 +1,5 @@
+world-path: "~/minecraft/world/" # folder to backup
+backup-path: "./backups/"        # output path
+log-file: "./logs.txt"           # logging
+backup-at: "7:00AM"                    # time of the day to do backups
+backups-count: 3        
